@@ -1,0 +1,16 @@
+node_modules/
+generated/
+.env
+.env.*
+!.env.example
+
+# Local editor/agent setup
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
+.DS_Store
+
+# Runtime/test output
+coverage/
+*.log
